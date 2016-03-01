@@ -3,8 +3,6 @@
 	<head>
 		<meta charset="UTF-8">
 		<title> Parallax Scrolling using Javascript</title>
-		<script type="text/javascript" src="js/jquery-1.12.1.min.js"></script>
-		<script type="text/javascript" src="js/jquery.cycle.all.js"></script>
 		<script type="text/javascript">
 			var ypos,image;
 			function parallax(){
